@@ -54,7 +54,6 @@ LOCAL_SRC_FILES += \
 LOCAL_C_INCLUDES += \
     $(LOCAL_PATH)/../../config/common/intf_types \
     $(LOCAL_PATH)/../../include \
-    $(LOCAL_PATH)/../../../libgem/inc \
     $(LOCAL_PATH)/../../../../../external/tinyxml2
 
 LOCAL_MODULE := libpowerhal
